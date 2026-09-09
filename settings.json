@@ -1,5 +1,5 @@
 {
-  "name": "Nigs",
+  "name": "Choll",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "I Love Niggers!",
-        "I like to play with my PP!"
+        "I Love Minecraft!",
+        "I like to play Minecraft"
       ]
     },
     "chat-log": true,
